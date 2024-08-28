@@ -28,6 +28,8 @@ baseurl: "/minimalmistakestemplate/"
 url: "https://backyardbiomech.github.io"
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
