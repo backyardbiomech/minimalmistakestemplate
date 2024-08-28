@@ -23,7 +23,9 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
-
+domain: backyardbiomech.github.io
+baseurl: "/minimalmistakestemplate/"
+url: "https://backyardbiomech.github.io"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
